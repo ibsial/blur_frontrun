@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "alchemy-sdk": "^2.4.3",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2"
+  }
+}
